@@ -50,10 +50,7 @@ I wish i could find project that will help me foucus mainly on nodejs, express, 
 
 
 ## Author
-
-- Website - [Syntactic Dev](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@DevSyntactic](https://www.twitter.com/devsyntactic)
+Francis Irungu
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
